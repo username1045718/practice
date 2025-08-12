@@ -1,2 +1,3 @@
-this is a demo file for git practice
+this is a demo file for practicing git .
+Made some changes
   
